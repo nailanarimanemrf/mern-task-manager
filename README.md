@@ -1,7 +1,1 @@
-# mern-task-manager
-
-## Description
-Une application MERN permettant aux utilisateurs de gérer des tâches personnelles avec authentification.
-
-## Auteur
-Naila Narimane MAROUF
+🧭 Mon parcours et mes réflexions – Point de contrôle🚀 Avancement actuel  Je me sens de plus en plus prêt(e) à franchir une nouvelle étape dans ma carrière. Grâce au bootcamp, j'ai acquis des compétences solides en développement web, notamment avec la stack MERN (MongoDB, Express.js, React, Node.js).🛠️ Compétences acquises jusqu'à présent- Création d'API REST avec Node.js et Express  - Intégration de MongoDB avec Mongoose  - Création d'interfaces dynamiques avec React  - Utilisation de Git et GitHub pour le versioning  - Déploiement de projets web  - Gestion d’un projet de A à Z avec une structure claire🎯 Prochaine étape  Je me sens motivé(e) à chercher un stage ou un emploi junior dans le développement web, et je vais continuer à renforcer mes compétences pratiques en créant des projets concrets comme l’application de gestion des tâches.💬 Réflexion  Ce bootcamp m’a permis de gagner en confiance, d’avoir une vision plus claire du métier de développeur(se) web et d’apprendre à apprendre rapidement.  J’ai aussi vraiment apprécié l’ambiance générale, la vibe du groupe, mes collègues et l’instructeur, ce qui a rendu l’apprentissage encore plus agréable et motivant.
